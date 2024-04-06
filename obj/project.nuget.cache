@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4dDrJA5qhyNweuJPCvCCKRuDR4aoF71ZG4kOqONOW/xQ4etfOMSS97iGZPgxS7/7mpYhsix553b4pHH3BCFh1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows 10\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\teset1\\teset1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
