@@ -6,8 +6,57 @@ Items: {
 		Tooltip: ""
 	}
 
-	redp: {
-		DisplayName: 红p
+	long_sword: {
+		DisplayName: 长剑
+		Tooltip: 他只是一把长剑，你还能指望他干什么呢
+	}
+
+	red_Crystal: {
+		DisplayName: 红水晶
+		Tooltip:
+			'''
+			最大生命值提高5 
+			叫他红水晶只是想把它和生命水晶区分开来
+			'''
+	}
+
+	life_Recovery_Jewellery: {
+		DisplayName: 绿豆
+		Tooltip:
+			'''
+			提高你的生命恢复速度
+			尽管它的名称是绿豆，但它和绿豆没有任何关系
+			'''
+	}
+
+	blue_Crystal: {
+		DisplayName: 蓝水晶
+		Tooltip: 提高你的魔法上限
+	}
+
+	magic_Book: {
+		DisplayName: 小书
+		Tooltip:
+			'''
+			提高你5%的魔法伤害
+			最基础的魔力来源
+			'''
+	}
+
+	cloth_Armor: {
+		DisplayName: 石甲
+		Tooltip: 为你脆弱的身体提供一点点防御
+	}
+
+	blasting_Wand: {
+		DisplayName: blasting_ Wand
+		Tooltip: ""
+	}
+
+	crit_Cloak: {
+		DisplayName: crit_ Cloak
 		Tooltip: ""
 	}
 }
+
+Projectiles.Projectile1.DisplayName: Projectile1
