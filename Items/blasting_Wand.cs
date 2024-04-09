@@ -27,9 +27,12 @@ namespace teset1.Items
             Item.useAnimation = 60;
 
             Item.useStyle = ItemUseStyleID.Shoot;
+            Item.noMelee = true;//贴图不造成伤害
 
-            Item.shoot = ModContent.ProjectileType<Projectile1>();
-            Item.shootSpeed = 3f;
+            Item.mana = 10;
+
+            Item.shoot = ProjectileID.BallofFire;
+            Item.shootSpeed = 2f;
 
         }
 

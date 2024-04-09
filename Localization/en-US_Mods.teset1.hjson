@@ -49,13 +49,55 @@ Items: {
 	}
 
 	blasting_Wand: {
-		DisplayName: blasting_ Wand
-		Tooltip: ""
+		DisplayName: 火焰法杖
+		Tooltip: 射出火焰
 	}
 
 	crit_Cloak: {
-		DisplayName: crit_ Cloak
-		Tooltip: ""
+		DisplayName: 暴击斗篷
+		Tooltip:
+			'''
+			增加你4%的暴击几率
+			爆不爆击也许不取决于你的暴击率 	   
+			'''
+	}
+
+	Pickaxe: {
+		DisplayName: 875铁镐
+		Tooltip: 你可以选择用他挖掘，或是干点别的什么
+	}
+
+	Faerie_Charm: {
+		DisplayName: 仙女护符
+		Tooltip:
+			'''
+			增加你的魔法回复速度
+			从仙女裙子下面摸出来的
+			'''
+	}
+
+	Needlessly_Large_Rod: {
+		DisplayName: 魔法棒
+		Tooltip:
+			'''
+			增加15%的魔法伤害，代价是额外消耗10%的魔力
+
+			'''
+	}
+
+	Null_Magic_Mantle: {
+		DisplayName: 小斗篷
+		Tooltip: 为你提供5%伤害减免以及一点点的加速度
+	}
+
+	short_Sword: {
+		DisplayName: 同志短剑
+		Tooltip: 很快，但出了快之外一无是处
+	}
+
+	storm_Sword: {
+		DisplayName: 大剑
+		Tooltip: 朴实无华
 	}
 }
 
